@@ -2,9 +2,9 @@
 
 
 <table><tr><th valign="top"><a name="_swcl4dcj4o6y"></a><b>PATTERNS</b></th><th valign="top"><b>LEETCODE PROBLEM</b></th></tr>
-<tr><td rowspan="3" valign="top"><p></p><p></p><p>PREFIX SUM</p></td><td valign="top">- [303](https://leetcode.com/problems/range-sum-query-immutable/description/)</td></tr>
-<tr><td valign="top">- [525](https://leetcode.com/problems/contiguous-array/description/)</td></tr>
-<tr><td valign="top">- [560](https://leetcode.com/problems/subarray-sum-equals-k/description/)</td></tr>
+<tr><td rowspan="3" valign="top"><p></p><p></p><p>PREFIX SUM</p></td><td valign="top">Problem - 303 (https://leetcode.com/problems/range-sum-query-immutable/description/)</td></tr>
+<tr><td valign="top">Problem - 525 (https://leetcode.com/problems/contiguous-array/description/)</td></tr>
+<tr><td valign="top">Problem - 560 (https://leetcode.com/problems/subarray-sum-equals-k/description/)</td></tr>
 <tr><td rowspan="3" valign="top"><p></p><p></p><p>TWO POINTERS</p></td><td valign="top">- [167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)</td></tr>
 <tr><td valign="top">- [15](https://leetcode.com/problems/3sum/description/)</td></tr>
 <tr><td valign="top">- [11](https://leetcode.com/problems/container-with-most-water/description/)</td></tr>

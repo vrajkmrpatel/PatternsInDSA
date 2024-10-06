@@ -1,6 +1,5 @@
 ﻿<a name="_eeb755klin0c"></a>PATTERNS IN DSA
 
-
 <table><tr><th valign="top"><a name="_swcl4dcj4o6y"></a><b>PATTERNS</b></th><th valign="top"><b>LEETCODE PROBLEM</b></th></tr>
 <tr><td rowspan="3" valign="top"><p></p><p></p><p>PREFIX SUM</p></td><td valign="top">Problem - 303 (https://leetcode.com/problems/range-sum-query-immutable/description/)</td></tr>
 <tr><td valign="top">Problem - 525 (https://leetcode.com/problems/contiguous-array/description/)</td></tr>
@@ -24,33 +23,31 @@
 <tr><td valign="top">Problem - 347 (https://leetcode.com/problems/top-k-frequent-elements/description/)</td></tr>
 <tr><td valign="top">Problem - 373 (https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/)</td></tr>
 <tr><td rowspan="3" valign="top"><p></p><p></p><p>OVERLAPPING INTERVALS</p></td><td valign="top">Problem - 56 (https://leetcode.com/problems/merge-intervals/description/)</td></tr>
-<tr><td valign="top">Problem - 57 </td></tr>
-<tr><td valign="top">Problem - 435 </td></tr>
-<tr><td rowspan="3" valign="top"><p></p><p></p><p>MODIFIED BINARY SEARCH</p></td><td valign="top">- 33</td></tr>
-<tr><td valign="top">- 153</td></tr>
-<tr><td valign="top">- 240</td></tr>
-<tr><td rowspan="4" valign="top"><p></p><p></p><p>BINARY TREE TRAVERSAL</p></td><td valign="top">- 257</td></tr>
-<tr><td valign="top">- 230</td></tr>
-<tr><td valign="top">- 124</td></tr>
-<tr><td valign="top">- 107</td></tr>
-<tr><td rowspan="3" valign="top"><p></p><p></p><p>DFS</p></td><td valign="top">- 133</td></tr>
-<tr><td valign="top">- 113</td></tr>
-<tr><td valign="top"><p>- 210</p><p></p></td></tr>
-<tr><td rowspan="3" valign="top"><p></p><p></p><p>BFS</p></td><td valign="top">- 102</td></tr>
-<tr><td valign="top">- 994</td></tr>
-<tr><td valign="top">- 127</td></tr>
-<tr><td rowspan="3" valign="top"><p></p><p></p><p>MATRIX TRAVERSAL</p></td><td valign="top">- 733</td></tr>
-<tr><td valign="top">- 200</td></tr>
-<tr><td valign="top">- 130</td></tr>
-<tr><td rowspan="3" valign="top"><p></p><p></p><p>BACKTRACKING</p></td><td valign="top">- 46</td></tr>
-<tr><td valign="top">- 78</td></tr>
-<tr><td valign="top">- 51</td></tr>
-<tr><td rowspan="6" valign="top"><p></p><p></p><p></p><p></p><p>DYNAMIC PROGRAMMING</p></td><td valign="top">- 70</td></tr>
-<tr><td valign="top">- 300</td></tr>
-<tr><td valign="top">- 322</td></tr>
-<tr><td valign="top">- 416</td></tr>
-<tr><td valign="top">- 1143</td></tr>
-<tr><td valign="top">- 312</td></tr>
+<tr><td valign="top">Problem - 57 (https://leetcode.com/problems/insert-interval/description/)</td></tr>
+<tr><td valign="top">Problem - 435 (https://leetcode.com/problems/non-overlapping-intervals/description/)</td></tr>
+<tr><td rowspan="3" valign="top"><p></p><p></p><p>MODIFIED BINARY SEARCH</p></td><td valign="top">Problem - 33 (https://leetcode.com/problems/search-in-rotated-sorted-array/description/)</td></tr>
+<tr><td valign="top">Problem - 153 (https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)</td></tr>
+<tr><td valign="top">Problem - 240 (https://leetcode.com/problems/search-a-2d-matrix-ii/description/)</td></tr>
+<tr><td rowspan="4" valign="top"><p></p><p></p><p>BINARY TREE TRAVERSAL</p></td><td valign="top">Problem - 257 (https://leetcode.com/problems/binary-tree-paths/description/)</td></tr>
+<tr><td valign="top">Problem - 230 (https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)</td></tr>
+<tr><td valign="top">Problem - 124 (https://leetcode.com/problems/binary-tree-maximum-path-sum/description/)</td></tr>
+<tr><td valign="top">Problem - 107 (https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)</td></tr>
+<tr><td rowspan="3" valign="top"><p></p><p></p><p>DFS</p></td><td valign="top">Problem - 133 (https://leetcode.com/problems/clone-graph/description/)</td></tr>
+<tr><td valign="top">Problem - 113 (https://leetcode.com/problems/path-sum-ii/description/)</td></tr>
+<tr><td valign="top"><p>Problem - 210 (https://leetcode.com/problems/course-schedule-ii/description/)</p><p></p></td></tr>
+<tr><td rowspan="3" valign="top"><p></p><p></p><p>BFS</p></td><td valign="top">Problem - 102 (https://leetcode.com/problems/binary-tree-level-order-traversal/description/)</td></tr>
+<tr><td valign="top">Problem - 994 (https://leetcode.com/problems/rotting-oranges/description/)</td></tr>
+<tr><td valign="top">Problem - 127 (https://leetcode.com/problems/word-ladder/description/)</td></tr>
+<tr><td rowspan="3" valign="top"><p></p><p></p><p>MATRIX TRAVERSAL</p></td><td valign="top">Problem - 733 (https://leetcode.com/problems/flood-fill/description/)</td></tr>
+<tr><td valign="top">Problem - 200 (https://leetcode.com/problems/number-of-islands/description/)</td></tr>
+<tr><td valign="top">Problem - 130 (https://leetcode.com/problems/surrounded-regions/description/)</td></tr>
+<tr><td rowspan="3" valign="top"><p></p><p></p><p>BACKTRACKING</p></td><td valign="top">Problem - 46 (https://leetcode.com/problems/permutations/description/)</td></tr>
+<tr><td valign="top">Problem - 78 (https://leetcode.com/problems/subsets/description/)</td></tr>
+<tr><td valign="top">Problem - 51 (https://leetcode.com/problems/n-queens/description/)</td></tr>
+<tr><td rowspan="6" valign="top"><p></p><p></p><p></p><p></p><p>DYNAMIC PROGRAMMING</p></td><td valign="top">Problem - 70 (https://leetcode.com/problems/climbing-stairs/description/)</td></tr>
+<tr><td valign="top">Problem - 300 (https://leetcode.com/problems/longest-increasing-subsequence/description/)</td></tr>
+<tr><td valign="top">Problem - 322 (https://leetcode.com/problems/coin-change/description/)</td></tr>
+<tr><td valign="top">Problem - 416 (https://leetcode.com/problems/partition-equal-subset-sum/description/)</td></tr>
+<tr><td valign="top">Problem - 1143 (https://leetcode.com/problems/longest-common-subsequence/description/)</td></tr>
+<tr><td valign="top">Problem - 312 (https://leetcode.com/problems/burst-balloons/description/)</td></tr>
 </table>
-
-
